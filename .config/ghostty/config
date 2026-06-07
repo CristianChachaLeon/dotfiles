@@ -1,0 +1,8 @@
+# Open in fullscreen mode
+fullscreen = true
+
+# Border in ghostty windows
+window-decoration = true
+
+# keybind F11 to toggle fullscreen
+keybind = f11=toggle_fullscreen

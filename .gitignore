@@ -1,0 +1,14 @@
+# Neovim
+.config/nvim/lazy-lock.json
+.config/nvim/.luarc.json
+
+# Fish
+.config/fish/fish_variables
+
+# OpenCode (no incluir)
+.config/opencode/
+
+# OS
+.DS_Store
+*.swp
+*~
